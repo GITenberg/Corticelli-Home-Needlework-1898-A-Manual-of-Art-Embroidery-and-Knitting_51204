@@ -1,12 +1,17 @@
 _repo: Corticelli-Home-Needlework-1898-A-Manual-of-Art-Embroidery-and-Knitting_51204
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   publisher_contributor:
     agent_name: Nonotuck Silk Company
     alias: Nonotuck silk company, Florence, Mass.
     gutenberg_agent_id: '46311'
     url: http://www.gutenberg.org/2009/agents/46311
+covers:
+- cover_type: archival
+  image_path: 51204-h/images/coverpage.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51204#Corticelli-Home-Needlework-1898-A-Manual-of-Art-Embroidery-and-Knitting
 gutenberg_bookshelf: Crafts
 gutenberg_issued: '2016-02-14'
 gutenberg_type: Text
